@@ -13,7 +13,6 @@ sap.ui.define([
 					"sap.m"
 				]
 			},
-
 			config : {
 				sample : {
 					stretch : true,
