@@ -3,6 +3,8 @@ sap.ui.define([
 ], function(UIComponent) {
 	"use strict";
 
+	// comments test
+	
 	return UIComponent.extend("com.ittumi.compgastosapp.anticipos.Component", {
 		metadata : {
 			rootView : "com.ittumi.compgastosapp.anticipos.view.AnticiposList",
